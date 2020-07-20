@@ -30,19 +30,19 @@ Language: Typescript (Vue.js)
 
 TEDxOsakaU official website
 
-<img src="resources/tedxosakau.png" width=500px />
+<img src="https://github.com/hayashikun/hayashikun/blob/master/resources/tedxosakau.png?raw=true" width=400px />
 
 
 ### KOAN for iOS, for Android (2014-2017)
 
 Languages: Swift, Java
 
-<img src="resources/koan_2.jpg" width=300px />
+<img src="https://github.com/hayashikun/hayashikun/blob/master/resources/koan_2.jpg?raw=true" width=300px />
 <p float="left">
-  <img src="resources/koan_1.jpg" width=150px />
-  <img src="resources/koan_4.jpg" width=150px />
+  <img src="https://github.com/hayashikun/hayashikun/blob/master/resources/koan_1.jpg?raw=true" width=150px />
+  <img src="https://github.com/hayashikun/hayashikun/blob/master/resources/koan_4.jpg?raw=true" width=150px />
 </p>
-<img src="resources/koan_3.jpg" width=300px />
+<img src="https://github.com/hayashikun/hayashikun/blob/master/resources/koan_3.jpg?raw=true" width=300px />
 
 ### へったー (2015-2017)
 
@@ -51,8 +51,8 @@ Language: Python
 Send notification who unfollowed you on twitter
 
 <p float="left">
-  <img src="resources/hetta_1.jpg" width=200px />
-  <img src="resources/hetta_2.jpg" width=100px />
+  <img src="https://github.com/hayashikun/hayashikun/blob/master/resources/hetta_1.jpg?raw=true" width=200px />
+  <img src="https://github.com/hayashikun/hayashikun/blob/master/resources/hetta_2.jpg?raw=true" width=100px />
 </p>
 
 
