@@ -11,7 +11,7 @@ Language: Python
 
 Update desktop background image every day with randomly selected `Thirty-six Views of Mount Fuji` for macOS.
 
-<img src="https://github.com/hayashikun/fugaku36/blob/master/mov.gif?raw=true" width=500px />
+<img src="https://github.com/hayashikun/fugaku36/blob/master/mov.gif?raw=true" width=400px />
 
 
 ### Enigma (2019)
@@ -37,12 +37,12 @@ TEDxOsakaU official website
 
 Languages: Swift, Java
 
-<img src="resources/koan_2.jpg" width=400px />
+<img src="resources/koan_2.jpg" width=300px />
 <p float="left">
-  <img src="resources/koan_1.jpg" width=200px />
-  <img src="resources/koan_4.jpg" width=200px />
+  <img src="resources/koan_1.jpg" width=150px />
+  <img src="resources/koan_4.jpg" width=150px />
 </p>
-<img src="resources/koan_3.jpg" width=400px />
+<img src="resources/koan_3.jpg" width=300px />
 
 ### へったー (2015-2017)
 
@@ -51,6 +51,13 @@ Language: Python
 Send notification who unfollowed you on twitter
 
 <p float="left">
-  <img src="resources/hetta_1.jpg" width=300px />
-  <img src="resources/hetta_2.jpg" width=150px />
+  <img src="resources/hetta_1.jpg" width=200px />
+  <img src="resources/hetta_2.jpg" width=100px />
 </p>
+
+
+## Internship
+
+- DeNA / StuDev (2015 Summer)
+- VASILY / iOS app team (2015 Summer)
+- Speee / BizTech (2015 Summer)
