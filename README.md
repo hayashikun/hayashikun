@@ -1,4 +1,4 @@
-# Ryosuke Hayashi
+# hayashikun - Ryosuke Hayashi
 
 Blog: https://blog.hayashikun.com/
 
