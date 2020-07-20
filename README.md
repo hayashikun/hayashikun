@@ -1,7 +1,5 @@
 # hayashikun - Ryosuke Hayashi
 
-PhD student at The University of Tokyo.
-
 Blog: https://blog.hayashikun.com/
 
 
