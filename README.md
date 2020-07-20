@@ -2,9 +2,29 @@
 
 Blog: https://blog.hayashikun.com/
 
+## Likes
+- Python 🐍
+- Swift
+- Coffee / Tea
+- Mt. Fuji
+
+## Interested in / Learning
+- Quantum computing
+- Rust
+
+
+## Skills
+- Web backend (Python, Ruby, PHP, ...)
+- Web frontend (React.js, Vue.js)
+- iOS (Swift) app
+- Android (Java, Kotlin) app
+- Windows app (C#, WPF)
+- Database, docker, linux, etc.
+
+
 ## Works
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand</summary>
 
   ### fugaku36 (2020)
   - https://github.com/hayashikun/fugaku36
@@ -14,7 +34,7 @@ Blog: https://blog.hayashikun.com/
   Update desktop background image every day with randomly selected `Thirty-six Views of Mount Fuji` for macOS.
 
   <img src="https://github.com/hayashikun/fugaku36/blob/master/mov.gif?raw=true" width=400px />
-
+  
 
   ### Enigma (2019)
   - https://hayashikun.github.io/Enigma/
@@ -59,11 +79,13 @@ Blog: https://blog.hayashikun.com/
   
 </details>
 
+
 ## Internship
 
 - DeNA / StuDev (2015 Summer)
 - VASILY / iOS app team (2015 Summer)
 - Speee / BizTech (2015 Summer)
+
 
 ## Part time job
 - Cybozu Osaka (2016-2017)
