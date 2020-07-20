@@ -38,12 +38,11 @@ TEDxOsakaU official website
 Languages: Swift, Java
 
 <img src="resources/koan_2.jpg" width=400px />
-<br />
-<img src="resources/koan_1.jpg" width=200px />
-<img src="resources/koan_4.jpg" width=200px />
-<br />
+<p float="left">
+  <img src="resources/koan_1.jpg" width=200px />
+  <img src="resources/koan_4.jpg" width=200px />
+</p>
 <img src="resources/koan_3.jpg" width=400px />
-
 
 ### へったー (2015-2017)
 
@@ -51,5 +50,7 @@ Language: Python
 
 Send notification who unfollowed you on twitter
 
-<img src="resources/hetta_1.jpg" width=300px />
-<img src="resources/hetta_2.jpg" width=150px />
+<p float="left">
+  <img src="resources/hetta_1.jpg" width=300px />
+  <img src="resources/hetta_2.jpg" width=150px />
+</p>
