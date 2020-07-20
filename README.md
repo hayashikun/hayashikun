@@ -1,12 +1,16 @@
 # hayashikun - Ryosuke Hayashi
 
+PhD student at The University of Tokyo.
+
 Blog: https://blog.hayashikun.com/
 
+
 ## Likes
-- Python 🐍
+- Python🐍
 - Swift
 - Coffee / Tea
-- Mt. Fuji
+- Mt. Fuji 🗻
+
 
 ## Interested in / Learning
 - Quantum computing
@@ -19,7 +23,7 @@ Blog: https://blog.hayashikun.com/
 - iOS (Swift) app
 - Android (Java, Kotlin) app
 - Windows app (C#, WPF)
-- Database, docker, linux, etc.
+- RDBMS, Docker, Linux, etc.
 
 
 ## Works
