@@ -1,16 +1,35 @@
-### Hi there 👋
+# Ryosuke Hayashi
 
-<!--
-**hayashikun/hayashikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Blog: https://blog.hayashikun.com/
 
-Here are some ideas to get you started:
+## Works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### fugaku36 (2020)
+- https://github.com/hayashikun/fugaku36
+Language: Python
+
+Update desktop background image every day with randomly selected `Thirty-six Views of Mount Fuji` for macOS.
+
+
+### Enigma (2019)
+- https://hayashikun.github.io/Enigma/
+- https://github.com/hayashikun/Enigma
+Language: Typescript (React.js)
+
+Enigma (encryption device) web simulator
+
+
+### TEDxOsakaU (2018)
+- http://www.tedxosakau.com/
+Language: Typescript (Vue.js)
+
+TEDxOsakaU official website
+
+
+### KOAN for iOS, for Android (2014-2017)
+Languages: Swift, Java
+
+### へったー (2015-2017)
+Language: Python
+
+Send notification who unfollowed you on twitter
