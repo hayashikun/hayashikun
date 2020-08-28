@@ -25,8 +25,18 @@ Blog: https://blog.hayashikun.com/
 
 
 ## Works
+
 <details>
   <summary>Click to expand</summary>
+
+  ### qoin (2020)
+  - https://github.com/hayashikun/qoin
+  
+  Language: C++, Rust, Python
+  
+  By using qoin, the information detected by mediapipe can be sent to other programs by gRPC.
+  
+  <img src="https://github.com/hayashikun/qoin/raw/master/docs/qoin_py.gif?raw=true" width=400px />
 
   ### fugaku36 (2020)
   - https://github.com/hayashikun/fugaku36
