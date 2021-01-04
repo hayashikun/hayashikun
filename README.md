@@ -13,6 +13,7 @@ Blog: https://blog.hayashikun.com/
 ## Interested in / Learning
 - Quantum computing
 - Rust
+- Machine learning
 
 
 ## Skills
