@@ -14,6 +14,7 @@ Blog: https://blog.hayashikun.com/
 - Quantum computing
 - Rust
 - Machine learning
+- wasm
 
 
 ## Skills
