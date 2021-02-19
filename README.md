@@ -1,6 +1,7 @@
 # hayashikun
 
 Blog: https://blog.hayashikun.com/
+
 LinkedIn: https://www.linkedin.com/in/hayashikun/
 
 ## Likes
