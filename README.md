@@ -7,14 +7,15 @@ LinkedIn: https://www.linkedin.com/in/hayashikun/
 ## Likes
 - Python 🐍
 - Swift
+- Rust
 - Coffee / Tea
 - Mt. Fuji 🗻
 
 
 ## Interested in / Learning
-- Rust
+- WebAssembly
+- Competitive programming
 - Machine learning
-- wasm
 
 
 ## Skills
