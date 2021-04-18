@@ -4,6 +4,8 @@ Blog: https://blog.hayashikun.com/
 
 LinkedIn: https://www.linkedin.com/in/hayashikun/
 
+dev.to: https://dev.to/hayashikun
+
 ## Likes
 - Python 🐍
 - Swift
