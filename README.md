@@ -1,7 +1,5 @@
 # hayashikun
 
-LinkedIn: https://www.linkedin.com/in/hayashikun/
-
 ## Likes
 - Python 🐍
 - Swift
