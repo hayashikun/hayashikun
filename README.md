@@ -1,6 +1,14 @@
 # hayashikun
 
+## Links
+
+- [wishlist](https://www.amazon.jp/hz/wishlist/ls/2UPSB840JP07G?ref_=wl_share)
+- [dev.to](https://dev.to/hayashikun)
+- [tech blog](https://blog.hayashikun.com/archive/category/%E6%8A%80%E8%A1%93%E7%B3%BB)
+
+
 ## Likes
+
 - Python 🐍
 - Swift
 - Rust
