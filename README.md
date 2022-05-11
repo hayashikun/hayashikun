@@ -10,29 +10,22 @@
 ## Likes
 
 - Python 🐍
-- Swift
 - Rust
-- Coffee / Tea
-- Mt. Fuji 🗻
-
-
-## Interested in / Learning
 - WebAssembly
-- Competitive programming
-- Machine learning
-
-
-## Skills
-- Web backend (Python, Ruby, Go, ...)
-- Web frontend (React.js, Vue.js, ...)
-- Mobile app (Swift, Java, Kotlin, Flutter)
-- RDBMS, Docker, Linux, etc.
+- Coffee / Tea
 
 
 ## Works
 
 <details>
   <summary>Click to expand</summary>
+
+  ### wasabi (2022)
+  - https://github.com/hayashikun/wasabi
+
+  ONNX, Rust, wasm, proxy-wasm
+
+  <img src="https://github.com/hayashikun/wasabi/raw/master/web-wasm.gif?raw=true" width=400px />y
 
   ### qoin (2020)
   - https://github.com/hayashikun/qoin
@@ -41,7 +34,7 @@
   
   By using qoin, the information detected by mediapipe can be sent to other programs by gRPC.
   
-  <img src="https://github.com/hayashikun/qoin/raw/master/docs/qoin_py.gif?raw=true" width=400px />
+  <img src="https://github.com/hayashikun/qoin/raw/master/docs/qoin_py.gif?raw=true" width=400px />y
 
   ### fugaku36 (2020)
   - https://github.com/hayashikun/fugaku36
