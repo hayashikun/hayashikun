@@ -11,6 +11,7 @@
 
 - Python 🐍
 - Rust
+- Go
 - WebAssembly
 - Coffee / Tea
 
